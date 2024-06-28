@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirection</title>
+    <meta http-equiv="refresh" content="1;url=https://cutt.ly/6esVYvB0">
+</head>
+<body>
+    <p>Vous serez redirigé vers le site web dans 1 secondes...</p>
+</body>
+</html>
